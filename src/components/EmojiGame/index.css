@@ -1,0 +1,17 @@
+.bg-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+.cards-container {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+  flex-wrap: wrap;
+  justify-content: center;
+}

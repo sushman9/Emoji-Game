@@ -1,0 +1,24 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff33;
+  border: 2px solid #ffffff33;
+  border-radius: 20px;
+  min-width: 80%;
+  padding: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.ballons-image {
+  max-width: 50%;
+  max-height: 20%;
+}
+.play-button {
+  background-color: #ffce27;
+  color: black;
+  border-style: none;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+}
